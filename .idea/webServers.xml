@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b687d98f-e9f3-4103-b4c8-f1f3c3afcf4c" name="Local" url="http://localhost/ces/">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\ces" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
