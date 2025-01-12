@@ -147,14 +147,13 @@
                     <div class="col-lg-5">
                         <div class="left-info">
                             <h5 class="sub-title">Our Approach</h5>
-                            <h2 class="title">We protect ecosystems and biodiversity through conservation and carbon credits</h2>
+                            <h2 class="title">We protect ecosystems and biodiversity through conservation and education efforts</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
                         <div class="right-info">
                             <p>
-                                At CES, we are dedicated to the conservation of wildlife and ecosystems through the preservation of natural habitats and the reduction of carbon footprints. Through ecological restoration projects, protection of endangered species, and the issuance of green and blue carbon credits, we aim to mitigate the effects of climate change and promote a healthier environment.
-                                We believe in a future where nature conservation is essential for the well-being of future generations.
+                                At CES, we are committed to wildlife and environmental conservation through research and education. We aim to protect both terrestrial and marine ecosystems by focusing on endangered species and restoring habitats. Our efforts are geared towards mitigating habitat loss, deforestation, and climate change, while adhering to local, state, federal, and international conservation laws. We believe in the power of education and the importance of collective action for a sustainable future.
                             </p>
                             <a class="btn btn-theme btn-md radius animation" href="#">Discover more</a>
                         </div>
@@ -176,7 +175,7 @@
                                     </div>
                                     <h5><a href="#">Restoration of Terrestrial Ecosystems</a></h5>
                                     <p>
-                                        We work on the restoration of terrestrial ecosystems, protecting forests and natural habitats.
+                                        We focus on the restoration of terrestrial ecosystems, protecting forests and natural habitats from deforestation and degradation, while promoting sustainable practices.
                                     </p>
                                 </div>
                             </div>
@@ -189,7 +188,7 @@
                                     </div>
                                     <h5><a href="#">Protection of Marine Ecosystems</a></h5>
                                     <p>
-                                        Our mission also focuses on the protection of oceans and marine ecosystems vital for global biodiversity.
+                                        Our mission includes protecting oceans and marine ecosystems, which are vital for global biodiversity, by working on marine conservation and reducing contamination.
                                     </p>
                                 </div>
                             </div>
@@ -202,7 +201,7 @@
                                     </div>
                                     <h5><a href="#">Biodiversity Restoration</a></h5>
                                     <p>
-                                        We focus on recovering endangered species and promoting biodiversity in our conservation projects.
+                                        We prioritize the recovery of endangered species and the restoration of biodiversity in ecosystems affected by habitat loss and climate change.
                                     </p>
                                 </div>
                             </div>
@@ -215,7 +214,7 @@
                                     </div>
                                     <h5><a href="#">Ecological Conservation Projects</a></h5>
                                     <p>
-                                        We develop projects that restore and protect critical habitats for species at risk of extinction.
+                                        We design and implement projects aimed at protecting habitats critical for species at risk of extinction due to habitat loss, pollution, and climate change.
                                     </p>
                                 </div>
                             </div>
@@ -228,7 +227,7 @@
                                     </div>
                                     <h5><a href="#">Environmental Education and Awareness</a></h5>
                                     <p>
-                                        We carry out educational campaigns to raise awareness about the importance of conservation and climate change.
+                                        We conduct educational campaigns to raise awareness about the importance of conservation, the impact of climate change, and the role of communities in protecting nature.
                                     </p>
                                 </div>
                             </div>
@@ -239,6 +238,7 @@
             </div>
         </div>
     </div>
+
     <!-- End Services -->
 
 
@@ -249,7 +249,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Our Gallery</h5>
-                        <h2 class="title">Lands</h2>
+                        <h2 class="title">Restoration of Lands</h2>
                         <div class="devider"></div>
                     </div>
                 </div>
@@ -266,8 +266,8 @@
                                 <div class="gallery-style-one">
                                     <img src="inicio/dom/img/trees-g1610847e2_1280.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Fruit</span>
-                                        <h4><a href="#">Healthy Food</a></h4>
+                                        <span>Restoration</span>
+                                        <h4><a href="#">Forest Restoration</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -277,8 +277,8 @@
                                 <div class="gallery-style-one">
                                     <img src="inicio/dom/img/tree-gbcee13c57_1280.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Organic</span>
-                                        <h4><a href="#">Cow Milk</a></h4>
+                                        <span>Conservation</span>
+                                        <h4><a href="#">Endangered Species Habitat</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -288,8 +288,8 @@
                                 <div class="gallery-style-one">
                                     <img src="inicio/dom/img/river-gc2136a945_1280.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Vegetables</span>
-                                        <h4><a href="#">Organic Vegetables</a></h4>
+                                        <span>Water Ecosystems</span>
+                                        <h4><a href="#">River and Wetland Protection</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -299,8 +299,8 @@
                                 <div class="gallery-style-one">
                                     <img src="inicio/dom/img/nature-gaabdcf799_1280-min.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Cereals</span>
-                                        <h4><a href="#">Fresh Mandarins</a></h4>
+                                        <span>Reforestation</span>
+                                        <h4><a href="#">Tropical Forest Recovery</a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -311,8 +311,8 @@
                                 <div class="gallery-style-one">
                                     <img src="inicio/dom/img/lake-g90b55e3bd_1280.jpg" alt="Thumb">
                                     <div class="overlay">
-                                        <span>Harvest</span>
-                                        <h4><a href="#">Crunchy Cucumbers</a></h4>
+                                        <span>Conservation</span>
+                                        <h4><a href="#">Wetland Protection Projects</a></h4>
                                     </div>
                                 </div>
                             </div>
