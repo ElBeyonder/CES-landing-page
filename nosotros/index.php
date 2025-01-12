@@ -12,7 +12,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Nosotros | <?php echo $titulo; ?></title>
+    <title>About US | <?php echo $titulo; ?></title>
 
     <?php require_once '../config/link.php'; ?>
 
