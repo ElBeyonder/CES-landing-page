@@ -12,7 +12,15 @@
                     <div class="col-lg-4 col-md-6 item">
                         <div class="footer-item about">
                             <img class="logo" src="<?php echo $logotipo_letras_abajo; ?>" alt="Logo">
-                            <p>CES (Centro de Estudios Sostenibles) is dedicated to promoting sustainable practices, innovation, and environmental responsibility. We work alongside communities and organizations to implement strategies that contribute to the development of green technologies and practices in agriculture, renewable energy, and biodiversity preservation. Our mission is to create positive change and help build a sustainable future for generations to come.</p>
+                            <p>
+                                CES (Conservation of Endangered Species) is committed to advancing sustainable practices,
+                                fostering innovation, and championing environmental responsibility.
+                                We collaborate with communities and organizations worldwide to develop and implement strategies
+                                that drive progress in green technologies, sustainable agriculture,
+                                renewable energy, and biodiversity preservation.
+                                Our mission is to inspire transformative change and pave the way for a more sustainable future,
+                                ensuring the well-being of our planet and its species for generations to come.
+                            </p>
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -73,7 +81,7 @@
             <div class="footer-bottom">
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">Centro de Estudios Sostenibles (CES)</a></p>
+                        <p>&copy; Copyright 2025. All Rights Reserved by <a href="#">Conservation of Endangered Species (CES)</a></p>
                     </div>
                     <div class="col-lg-6 text-end">
                         <ul>

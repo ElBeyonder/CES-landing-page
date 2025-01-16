@@ -56,7 +56,16 @@
                         <div class="col-xl-6 col-lg-12 justify-content-center">
                             <h2 class="heading text-center">Who We Are</h2> <!-- Quienes somos -->
                             <p>
-                                CES (Climate & Environmental Solutions) is a global organization dedicated to promoting sustainable practices through integrated agroforestry development and the trading of carbon credits and greenhouse gas emission reduction certificates. Our mission is to mitigate the carbon footprint while fostering equitable socio-economic development in rural areas by valuing the work of landowners. CES leverages verified data on greenhouse gas processing to finance projects that bridge the gap between productivity and environmental responsibility. Our vision is to harmonize human activities with nature, ensuring a sustainable and healthier planet for future generations.
+
+                                CES (Conservation of Endangered Species) is a global organization dedicated to promoting
+                                sustainable practices through integrated agroforestry development and the trading of carbon
+                                credits and greenhouse gas emission reduction certificates. Our mission is to mitigate
+                                the carbon footprint while fostering equitable socio-economic development in rural
+                                areas by valuing the work of landowners. CES leverages verified data
+                                on greenhouse gas processing to finance projects that bridge the gap
+                                between productivity and environmental responsibility. Our vision is to harmonize
+                                human activities with nature, ensuring a sustainable and healthier planet for future generations.
+
                                 <!-- CES es una organización global dedicada a promover prácticas sostenibles mediante el desarrollo agroforestal integrado y el comercio de créditos de carbono y certificados de reducción de emisiones de GEI. Nuestra misión es mitigar la huella de carbono mientras fomentamos el desarrollo socioeconómico equitativo en las zonas rurales, valorando el trabajo de los propietarios de la tierra. CES utiliza datos verificados sobre el procesamiento de gases de efecto invernadero para financiar proyectos que combinan productividad y responsabilidad ambiental. Nuestra visión es armonizar las actividades humanas con la naturaleza, garantizando un planeta sostenible y saludable para las generaciones futuras. -->
                             </p>
                         </div>
