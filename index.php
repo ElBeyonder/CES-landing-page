@@ -29,7 +29,7 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-one">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(inicio/dom/img/alberta-g7ce0e37c9_1280.jpg);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(https://i.imgur.com/ztqcsly.jpeg);"></div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-7">
@@ -40,7 +40,7 @@
                                         CES focuses on protecting endangered species and ecosystems through dedicated research and conservation efforts. By addressing the factors that threaten biodiversity, such as habitat loss, deforestation, and pollution, CES works globally to ensure the survival of vulnerable species.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme secondary btn-md radius animation" href="#">Learn More</a>
+                                        <a class="btn btn-theme secondary btn-md radius animation" href="<?php echo $link_general; ?>donate/">Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-one">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(inicio/dom/img/hintersee-g2cb931eb8_1280.jpg);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(https://i.imgur.com/AHq2eNH.jpeg);"></div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-7">
@@ -62,7 +62,7 @@
                                         CES is committed to the conservation of marine ecosystems, focusing on protecting coastal and oceanic environments. Through research and sustainable practices, CES aims to restore damaged ecosystems and ensure the long-term survival of marine species.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme secondary btn-md radius animation" href="#">Discover More</a>
+                                        <a class="btn btn-theme secondary btn-md radius animation" href="<?php echo $link_general; ?>donate/">Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                             <p>
                                 At CES, we are committed to wildlife and environmental conservation through research and education. We aim to protect both terrestrial and marine ecosystems by focusing on endangered species and restoring habitats. Our efforts are geared towards mitigating habitat loss, deforestation, and climate change, while adhering to local, state, federal, and international conservation laws. We believe in the power of education and the importance of collective action for a sustainable future.
                             </p>
-                            <a class="btn btn-theme btn-md radius animation" href="#">Discover more</a>
+                            <a class="btn btn-theme secondary btn-md radius animation" href="<?php echo $link_general; ?>donate/">Donate</a>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="inicio/dom/img/trees-g1610847e2_1280.jpg" alt="Thumb">
+                                    <img src="https://i.imgur.com/97BHGk3.jpeg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Restoration</span>
                                         <h4><a href="#">Forest Restoration</a></h4>
@@ -275,7 +275,7 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="inicio/dom/img/tree-gbcee13c57_1280.jpg" alt="Thumb">
+                                    <img src="https://i.imgur.com/b1TuVLv.jpeg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Conservation</span>
                                         <h4><a href="#">Endangered Species Habitat</a></h4>
@@ -286,7 +286,7 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="inicio/dom/img/river-gc2136a945_1280.jpg" alt="Thumb">
+                                    <img src="https://i.imgur.com/2N9WhI6.jpeg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Water Ecosystems</span>
                                         <h4><a href="#">River and Wetland Protection</a></h4>
@@ -297,7 +297,7 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="inicio/dom/img/nature-gaabdcf799_1280-min.jpg" alt="Thumb">
+                                    <img src="https://i.imgur.com/ILZU1bp.jpeg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Reforestation</span>
                                         <h4><a href="#">Tropical Forest Recovery</a></h4>
@@ -309,7 +309,7 @@
                             <!-- Single Item -->
                             <div class="swiper-slide">
                                 <div class="gallery-style-one">
-                                    <img src="inicio/dom/img/lake-g90b55e3bd_1280.jpg" alt="Thumb">
+                                    <img src="https://i.imgur.com/ztqcsly.jpeg" alt="Thumb">
                                     <div class="overlay">
                                         <span>Conservation</span>
                                         <h4><a href="#">Wetland Protection Projects</a></h4>

@@ -9,11 +9,11 @@ Options -Indexes
 
     RewriteEngine On
 #    RewriteCond %{ENV:HTTPS} !on [NC]
-#    RewriteCond %{HTTP_HOST} ^www.karamagua.com [NC]
-#    RewriteCond %{HTTP_HOST} ^karamagua\.com [OR]
-#    RewriteCond %{HTTP_HOST} ^www\.karamagua\.com
-#    RewriteRule ^(.*)$ https://karamagua.com/$1 [R=301,L,NE]
-#    RewriteRule ^(.*)$ https://www.karamagua.com/$1 [R,L]
+#    RewriteCond %{HTTP_HOST} ^www.conservationes.org [NC]
+#    RewriteCond %{HTTP_HOST} ^conservationes\.org [OR]
+#    RewriteCond %{HTTP_HOST} ^www\.conservationes\.org
+#    RewriteRule ^(.*)$ https://conservationes.org/$1 [R=301,L,NE]
+#    RewriteRule ^(.*)$ https://www.conservationes.org/$1 [R,L]
 
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}.php -f

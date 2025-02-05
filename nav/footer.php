@@ -50,7 +50,8 @@
                                     </div>
                                     <div class="content">
                                         <strong>Address:</strong>
-                                        Bogotá, Calle 45 No. 23-34, Office 202
+                                        55 Main Street, The Grand Avenue 2nd Block,
+                                        New York City
                                     </div>
                                 </li>
                                 <li>
@@ -59,7 +60,7 @@
                                     </div>
                                     <div class="content">
                                         <strong>Email:</strong>
-                                        <a href="mailto:info@ces.org">info@ces.org</a>
+                                        <a href="mailto:rolando@conservationes.org">rolando@conservationes.org</a>
                                     </div>
                                 </li>
                                 <li>
@@ -68,7 +69,7 @@
                                     </div>
                                     <div class="content">
                                         <strong>Phone:</strong>
-                                        <a href="tel:+57123456789">+57 123456789</a>
+                                        <a href="tel:+1 929 3109468">+1 (929) 3109468</a>
                                     </div>
                                 </li>
                             </ul>

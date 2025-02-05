@@ -34,3 +34,22 @@
     height: 60px;
     width: 60px;
 }
+
+.link-donar-nav{
+    color: var(--color-primary) !important;
+}
+
+
+.attr-right ul li .button{
+    max-height: 50px !important;
+    justify-content: center;
+    align-items: center !important;
+}
+.attr-right ul li .button > a{
+    max-width: 100%;
+    max-height: 100% !important;
+    height: 50px !important;
+    display: flex !important;
+    justify-content: center;
+    align-items: center !important;
+}

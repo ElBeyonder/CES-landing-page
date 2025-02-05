@@ -5,6 +5,13 @@
       <webServer id="b687d98f-e9f3-4103-b4c8-f1f3c3afcf4c" name="Local" url="http://localhost/ces/">
         <fileTransfer mountedRoot="C:\xampp\htdocs\ces" accessType="MOUNT" port="0" />
       </webServer>
+      <webServer id="d74b64b7-2197-4160-9877-ac749720e578" name="Hosting" url="http://www.conservationes.org/">
+        <fileTransfer rootFolder="/conservationes.org" host="ftp.bonospaco.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

@@ -1,0 +1,9 @@
+
+
+.img-team{
+    width: 100%;
+    min-width: 100%;
+    max-height: 450px;
+    object-fit: contain;
+
+}

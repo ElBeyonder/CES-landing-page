@@ -61,7 +61,7 @@
                     </button>
                     <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                         <li><a href="<?php echo $link_general; ?>">Home</a></li>
-                        <li><a href="<?php echo $link_general; ?>">Donate</a></li>
+                        <li class="donate-navbar"><a class="link-donar-nav" href="<?php echo $link_general; ?>">Donate</a></li>
                         <li><a href="<?php echo $link_general; ?>nosotros/">About Us</a></li>
                         <li><a href="<?php echo $link_general; ?>contacto/">Contact</a></li>
                     </ul>
@@ -72,14 +72,8 @@
                     <div class="attr-nav">
                         <ul>
                             <li class="contact">
-                                <div class="call">
-                                    <div class="icon">
-                                        <i class="fas fa-comments-alt-dollar"></i>
-                                    </div>
-                                    <div class="info">
-                                        <p>Do you have any questions?</p>
-                                        <h5><a href="mailto:rolando@conservationes.org">rolando@conservationes.org</a></h5>
-                                    </div>
+                                <div class="button" style="width: 200px; height: 80px">
+                                    <a class="btn btn-theme secondary btn-md radius animation" href="<?php echo $link_general; ?>donate/">Donate</a>
                                 </div>
                             </li>
                         </ul>

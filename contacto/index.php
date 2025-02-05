@@ -101,7 +101,7 @@
                         <h2>
                             Contact
                             <span>
-                        CES
+                            CES
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none">
                             <path d="M14.4,111.6c0,0,202.9-33.7,471.2,0c0,0-194-8.9-397.3,24.7c0,0,141.9-5.9,309.2,0" style="animation-play-state: running;"></path>
                         </svg>
@@ -137,7 +137,7 @@
                                 </div>
                                 <div class="info">
                                     <h5 class="title">Our Official Email</h5>
-                                    <a href="mailto:info@ces.com">info@ces.com</a>
+                                    <a href="mailto:rolando@conservationes.org">rolando@conservationes.org</a>
                                 </div>
                             </li>
                         </ul>
