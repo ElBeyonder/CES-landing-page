@@ -1,43 +1,22 @@
-    <a class="btn-red-social btn-telegram" href=""><i class="fa-brands fa-telegram"></i></a>
-    <a class="btn-red-social btn-whatsapp" href=""><i class="fa-brands fa-whatsapp"></i></a>
+
+
+    <!--<a class="btn-red-social btn-whatsapp" href=""><i class="fa-brands fa-whatsapp"></i></a>-->
 
     <!-- Start Footer
     ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(<?php echo $link_general; ?>lib/agrul/assets/img/shape/brush-down.png);">
+    <footer class="bg-dark text-light">
         <div class="container">
             <div class="f-items default-padding">
                 <div class="row">
 
                     <!-- Single Item -->
                     <div class="col-lg-4 col-md-6 item">
-                        <div class="footer-item about">
+                        <div class="footer-item about footer-image">
                             <img class="logo" src="<?php echo $logotipo_letras_abajo; ?>" alt="Logo">
-                            <p>
-                                CES (Conservation of Endangered Species) is committed to advancing sustainable practices,
-                                fostering innovation, and championing environmental responsibility.
-                                We collaborate with communities and organizations worldwide to develop and implement strategies
-                                that drive progress in green technologies, sustainable agriculture,
-                                renewable energy, and biodiversity preservation.
-                                Our mission is to inspire transformative change and pave the way for a more sustainable future,
-                                ensuring the well-being of our planet and its species for generations to come.
-                            </p>
                         </div>
                     </div>
                     <!-- End Single Item -->
 
-                    <!-- Single Item -->
-                    <div class="col-lg-2 col-md-6 item">
-                        <div class="footer-item link">
-                            <h4 class="widget-title">Explore</h4>
-                            <ul>
-                                <li><a href="#">About CES</a></li>
-                                <li><a href="#">Our Team</a></li>
-                                <li><a href="#">Sustainability Initiatives</a></li>
-                                <li><a href="#">Get Involved</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
 
                     <!-- Single Item -->
                     <div class="col-lg-3 col-md-6 item">
@@ -45,31 +24,15 @@
                             <h4 class="widget-title">Contact</h4>
                             <ul>
                                 <li>
-                                    <div class="icon">
-                                        <i class="fas fa-home"></i>
-                                    </div>
                                     <div class="content">
                                         <strong>Address:</strong>
-                                        55 Main Street, The Grand Avenue 2nd Block,
-                                        New York City
+                                        188 Beach 9 Street, Rockaway Beach, New York, 11693.
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="icon">
-                                        <i class="fas fa-envelope"></i>
-                                    </div>
                                     <div class="content">
                                         <strong>Email:</strong>
-                                        <a href="mailto:rolando@conservationes.org">rolando@conservationes.org</a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fas fa-phone"></i>
-                                    </div>
-                                    <div class="content">
-                                        <strong>Phone:</strong>
-                                        <a href="tel:+1 929 3109468">+1 (929) 3109468</a>
+                                        <a href="mailto:rolando@conservationes.org">info@conservationes.org</a>
                                     </div>
                                 </li>
                             </ul>
@@ -82,7 +45,10 @@
             <div class="footer-bottom">
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>&copy; Copyright 2025. All Rights Reserved by <a href="#">Conservation of Endangered Species (CES)</a></p>
+                        <p>&copy; Copyright 2025. All Rights Reserved by <a href="#">
+                                Conservation of Endangered Species - (CES).
+                                <br>
+                                is a 501(c)(3) nonprofit. EIN: 99-3898379</a></p>
                     </div>
                     <div class="col-lg-6 text-end">
                         <ul>
@@ -95,11 +61,6 @@
             </div>
             <!-- End Footer Bottom -->
         </div>
-        <div class="shape-right-bottom">
-            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/10.png" alt="Image Not Found">
-        </div>
-        <div class="shape-left-bottom">
-            <img src="<?php echo $link_general; ?>lib/agrul/assets/img/shape/11.png" alt="Image Not Found">
-        </div>
+
     </footer>
     <!-- End Footer -->
